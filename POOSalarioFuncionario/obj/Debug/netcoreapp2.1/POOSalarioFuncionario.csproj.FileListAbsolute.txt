@@ -1,0 +1,11 @@
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\bin\Debug\netcoreapp2.1\POOSalarioFuncionario.deps.json
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\bin\Debug\netcoreapp2.1\POOSalarioFuncionario.runtimeconfig.json
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\bin\Debug\netcoreapp2.1\POOSalarioFuncionario.runtimeconfig.dev.json
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\bin\Debug\netcoreapp2.1\POOSalarioFuncionario.dll
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\bin\Debug\netcoreapp2.1\POOSalarioFuncionario.pdb
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\obj\Debug\netcoreapp2.1\POOSalarioFuncionario.csprojAssemblyReference.cache
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\obj\Debug\netcoreapp2.1\POOSalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\obj\Debug\netcoreapp2.1\POOSalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\obj\Debug\netcoreapp2.1\POOSalarioFuncionario.AssemblyInfo.cs
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\obj\Debug\netcoreapp2.1\POOSalarioFuncionario.dll
+C:\Users\yuzos\Documents\curso C#\POOSalarioFuncionario\POOSalarioFuncionario\obj\Debug\netcoreapp2.1\POOSalarioFuncionario.pdb
